@@ -1,10 +1,15 @@
-.papito{
-	background-color: white;
-	width: 280px;
-	height: 280px;
-}
-.hijito{
-	border:2px solid yellow;
-	margin: 10px;
+.bloque {
+	width: 200px;
+	border: 2px solid #EB8459;
 	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.bloque h3 {
+	font-size: 1em;
+	margin: 0.5em 0em;
+}
+
+.bloque p {
+	font-size: 1em;
 }
